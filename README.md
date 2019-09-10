@@ -29,5 +29,3 @@ Things I like when setting up a new mac
 - [ ] Show hidden files be default `defaults write com.apple.finder AppleShowAllFiles -bool true`
 - [ ] Finder: show path bar `defaults write com.apple.finder ShowPathbar -bool true`
 - [ ] Disable Chrome sensitive backswipe on trackpad `defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool false`
-
-Test

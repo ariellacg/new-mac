@@ -1,0 +1,32 @@
+update
+
+upgrade
+
+install zsh
+
+tap 'phinze/cask'
+install brew-cask
+
+cask install firefox
+cask install google-chrome
+cask install iterm2
+
+cask 'brave-browser'
+cask 'firefox'
+cask 'google-chrome'
+cask 'iterm2'
+
+brew 'zsh'
+
+cask 'visual-studio-code'
+cask 'qlimagesize'
+cask 'qlvideo'
+cask 'quicklook-csv'
+cask 'rambox'
+cask 'vlc'
+cask 'webpquicklook'
+
+
+cleanup
+
+
