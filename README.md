@@ -30,3 +30,4 @@ Things I like when setting up a new mac
 - [ ] Finder: show path bar `defaults write com.apple.finder ShowPathbar -bool true`
 - [ ] Disable Chrome sensitive backswipe on trackpad `defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool false`
 
+Test
