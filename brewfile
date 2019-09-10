@@ -1,23 +1,19 @@
-update
+brew update
 
-upgrade
+brew upgrade
 
-install zsh
 
-tap 'phinze/cask'
-install brew-cask
+tap "homebrew/cask"
 
-cask install firefox
-cask install google-chrome
-cask install iterm2
+brew 'zsh'
+brew 'wget'
+brew 'youtube-dl'
+brew 'mas'
 
 cask 'brave-browser'
 cask 'firefox'
 cask 'google-chrome'
 cask 'iterm2'
-
-brew 'zsh'
-
 cask 'visual-studio-code'
 cask 'qlimagesize'
 cask 'qlvideo'
